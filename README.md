@@ -21,7 +21,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 </br>
-<img src="./assets/Images/Start.PNG" alt="Alt text" title="Start">
-<img src="./assets/Images/2nd_screen.PNG" alt="Alt text" title="2nd screen">
-<img src="./assets/Images/3rd_screen.PNG" alt="Alt text" title="Notes filled">
-<img src="./assets/Images/4th_screen.PNG" alt="Alt text" title="Notes save shown on side">
+<img src="./public/assets/Images/Start.PNG" alt="Alt text" title="Start">
+<img src="./public/assets/Images/2nd_screen.PNG" alt="Alt text" title="2nd screen">
+<img src="./public/assets/Images/3rd_screen.PNG" alt="Alt text" title="Notes filled">
+<img src="./public/assets/Images/4th_screen.PNG" alt="Alt text" title="Notes save shown on side">

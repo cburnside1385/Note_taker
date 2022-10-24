@@ -1,4 +1,4 @@
-# Note_taker
+# Notepad
 <a href="https://burnsidenotepad.herokuapp.com/" target="_blank">Notepad</a>
 
 

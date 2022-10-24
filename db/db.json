@@ -1,6 +1,1 @@
-[
-	{
-		"title": "Test Title",
-		"text": "Test text"
-	}
-]
+[{"title":"Michigan","text":"Big Ten Champion","id":1,"Datetime":"10/22/2022 @ 9:35"},{"title":"Michigan State","text":"Garbage 2.0","id":3,"Datetime":"10/22/2022 @ 9:36"},{"title":"Iowa","text":"Big Ten Runner-Up","id":4,"Datetime":"10/22/2022 @ 9:37"},{"title":"Minnesota","text":"Big Ten West Runner-up","id":5,"Datetime":"10/22/2022 @ 9:39"},{"title":"Test Entry","text":"This is a test entry","Datetime":"10/24/2022 @ 9:49","id":5}]

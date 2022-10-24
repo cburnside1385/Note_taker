@@ -5,7 +5,7 @@ body {
     padding: 0;
 }
 
-.save-note {
+.save{
     display: none;
 }
 
@@ -16,28 +16,28 @@ body {
     cursor: pointer;
 }
 
-.note-textarea,
-.note-title {
+
+.titleNotes,.textareaNotes {
     color: #000000;
     width: 100%;
     outline: none;
     border: none;
 }
 
-.note-textarea {
+.textareaNotes {
     resize: none;
     height: calc(100% - 63px);
     padding-top: 15px;
 }
 
-.note-title {
+.titleNotes {
     height: 50px;
     margin-top: 13px;
     font-size: 3rem;
 }
 
-    .note-title:read-only,
-    .note-textarea:read-only {
+    .titleNotes:read-only,
+    .textareaNotes:read-only {
         color: #757575;
     }
 
@@ -75,4 +75,8 @@ body {
     border-right: none;
     padding: 20px;
     cursor: pointer;
+}
+#Start, .navbar-brand, .navbar {
+    background-color: #00274C;
+    color: #FFCB05
 }
